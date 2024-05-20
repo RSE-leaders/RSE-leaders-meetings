@@ -52,11 +52,15 @@ the organisers might need to approach people individually, as an open call in pa
 
 ## Before the meeting
 
-- set up online meeting for online participants
-- send out agenda and collaborative note-taking document, as well as description how to come to the venue
-- organise name tags (can be sticky ones that the attendees write themselves, bring pens in that case)
-- bring extension cables
+- Set up online meeting for online participants
+- Set up programme and adjust to available contributions
+- Send out agenda and collaborative note-taking document, as well as description how to come to the venue
+- Organise name tags (can be sticky ones that the attendees write themselves, bring pens in that case)
+- Bring extension cables
 
 ## On the day
-- check that catering is sorted (lunch and coffee breaks)
-- make sure that there are enough extension cables
+- Arrive in advance to check that all the tech is working
+- Check that catering is sorted (lunch and coffee breaks)
+- Make sure that there are enough extension cables
+- One person should be in charge of the online attendees, monitor the chat, make sure they are included. This can be one of the organisers, or another attendees (in that case, rotate the
+responsibility for each programme point)
